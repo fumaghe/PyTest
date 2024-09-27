@@ -1,13 +1,11 @@
 # Python specific
 __pycache__/
 *.py[cod]
+*.pyo
 .venv/
 venv/
 .env
 .DS_Store
 
-# Snapshots
-tests/snapshots/
-
-# Environment files
+# Ignore environment files
 .env
