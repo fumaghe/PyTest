@@ -1,0 +1,11 @@
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.DS_Store
+
+# Ignore environment files
+.env
