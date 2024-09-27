@@ -1,5 +1,5 @@
 import pytest
-from mymodule import get_pubchem_cid, validate_json_schema
+from tests.mymodule import get_pubchem_cid, validate_json_schema
 
 pubchem_schema = {
     "$schema": "http://json-schema.org/draft-07/schema#",
